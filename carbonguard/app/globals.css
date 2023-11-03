@@ -1,0 +1,214 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@media screen and (width: 1024px){
+    .logoo{
+        display: none !important;
+    }
+    .title{
+        padding-top: 10px !important;
+        margin-left: 1.5cm;
+        font-size: 23px;
+    }
+    .btn{
+        margin-top: 6px;
+        margin-left: -50px;
+        font-size: 19px;
+    }
+    .space{
+        margin-left: 1.5cm;
+    }
+    .spacee{
+        margin-left: 1.5cm;
+        font-size: 15px;
+        margin-top: 5px;
+    }
+    .titlee{
+        margin-left: 1.5cm;
+        margin-top: 0;
+        margin-bottom: 9px;
+    }
+    .titlee >p{
+        padding-top: 2px;
+        font-size: 12px;
+        margin-bottom: 6px;
+    }
+    .input{
+        width: 7cm;
+        height: 30px;
+        font-size: 13px;
+
+    }
+    .field{
+        font-size: 15px;
+    }
+    .top{
+        width: 2cm;
+    }
+    .side{
+        margin-left: 25.3cm;
+        width: 1.77cm;
+        height: 17.33cm;
+    }
+    .btton{
+        width: 100px;
+        font-size: 15px;
+        margin-top: 8px;
+    }
+ 
+    .box{
+        margin-left: 2cm;
+        width: 22cm;
+    }
+    .image-up{
+        width: 1cm;
+        margin-left: 11cm ;
+        margin-top: -73px;
+    }
+    
+}
+
+@media screen and (width: 1280px){
+    .logo{
+        width: 3cm;
+    }
+    .dash{
+        width: 10cm;
+        margin-top: -8.5cm;
+        margin-left: 10cm;
+    }
+   
+    .back{
+        margin-top: 0px;
+        
+    }
+    .logoo{
+        position: absolute;
+        width: 2cm;
+        margin-left: -20cm;
+    }
+    .title{
+        padding-top: 1.5cm;
+        margin-left: 4cm;
+        font-size: 35px;
+    }
+    .btn{
+        margin-top: 6px;
+        margin-left: -50px;
+        font-size: 22px;
+    }
+    .space{
+        margin-left: 4cm;
+    }
+    .spacee{
+        margin-left: 4cm;
+        font-size: 18px;
+    }
+    .titlee{
+        margin-left: 4cm;
+        margin-bottom: 9px;
+    }
+    .titlee >p{
+        padding-top: 2px;
+        font-size: 15px;
+        margin-bottom: 6px;
+    }
+    .input{
+        width: 10cm;
+        height: 36px;
+        font-size: 14px;
+
+    }
+    .field{
+        font-size: 17px;
+    }
+    .top{
+        width: 2cm;
+    }
+    .side{
+        margin-left: 28cm;
+        width: 0;
+        height: 22cm;
+    }
+    .btton{
+        width: 120px;
+        font-size: 15px;
+    }
+ 
+    .box{
+        margin-left: 2cm;
+        width: 27.5cm;
+        margin-top: 1.6cm;
+        height: 17.9cm;
+    }
+    .image-up{
+        width: 16.5cm;
+        margin-left: 15.33cm ;
+        margin-top: -97px;
+    }
+    
+}
+
+/* @media screen and (max-width: 450px){
+    .title{
+        padding-top: 1.5cm;
+        margin-left: 4cm;
+        font-size: 35px;
+    }
+    .btn{
+        margin-top: 6px;
+        margin-left: -50px;
+        font-size: 22px;
+    }
+    .space{
+        margin-left: 4cm;
+    }
+    .spacee{
+        margin-left: 4cm;
+        font-size: 18px;
+    }
+    .titlee{
+        margin-left: 4cm;
+        margin-bottom: 9px;
+    }
+    .titlee >p{
+        padding-top: 2px;
+        font-size: 15px;
+        margin-bottom: 6px;
+    }
+    .input{
+        width: 10cm;
+        height: 36px;
+        font-size: 14px;
+
+    }
+    .field{
+        font-size: 17px;
+    }
+    .top{
+        width: 2cm;
+    }
+    .side{
+        margin-left: 28cm;
+        width: 0;
+        height: 22cm;
+    }
+    .btton{
+        width: 120px;
+        font-size: 15px;
+    }
+ 
+    .box{
+        margin-left: 2cm;
+        width: 27.5cm;
+        margin-top: 1.6cm;
+        height: 17.9cm;
+    }
+    .image-up{
+        width: 16.5cm;
+        margin-left: 15.33cm ;
+        margin-top: -97px;
+    }
+    
+} */
