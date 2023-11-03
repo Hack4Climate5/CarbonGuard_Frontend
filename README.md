@@ -37,13 +37,13 @@ Follow these steps to get started with the CarbonGuard web portal:
 Clone the repository to your local environment.
 
 ```sh
-git clone https://github.com/akirachix/Chikara-Frontend.git
+git clone https://github.com/Hack4Climate5/CarbonGuard_Frontend.git
 ```
 
 Navigate to the project directory.
 
 ```sh
-cd Chikara-frontend
+cd carbonguard
 ```
 
 Install project dependencies.
